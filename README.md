@@ -24,3 +24,16 @@ Developed an interactive task management dashboard using Microsoft Excel to trac
 ## Dashboard Interaction
 - <a href="https://github.com/mohammadwaseem82177/Task-Management-/blob/2c0124322df8d0990e9d03093411a8db2ec56c0b/Task%20Management.png"> Dashboard Interaction</a>
 
+## Dashboard 
+<img width="1430" height="581" alt="Task Management" src="https://github.com/user-attachments/assets/3f947867-fa15-463b-a051-1ee40d60a599" />
+
+## Key Things i have learned
+- Gained practical experience in creating a dynamic task and project management tracker using Excel.
+- Learned to use Excel formulas such as COUNTIF, SUM, and TODAY to automate task tracking and KPI calculations.
+- Improved understanding of conditional formatting to visually identify task status and overdue activities.
+- Developed skills in building interactive dashboards using charts, shapes, and text boxes.
+- Enhanced ability to analyze task performance, workload distribution, and project progress for better decision-making.
+
+## Conclusion
+This project helped in understanding how Excel can be effectively used as a powerful task and project management tool. By using formulas, dashboards, and conditional formatting, project progress can be tracked in real time. The tracker improves task visibility, accountability, and decision-making, making project monitoring more organized and efficient.
+
