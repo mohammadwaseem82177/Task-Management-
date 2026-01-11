@@ -8,6 +8,6 @@ Developed an interactive task management dashboard using Microsoft Excel to trac
 - To analyze task distribution by task owner, team, and employees for better workload management.
 - To use Excel formulas (COUNTIF, SUM, TODAY, etc.) to ensure automatic updates and dynamic data flow.
 - To apply conditional formatting to visually highlight task status and overdue tasks.
-- ## To implement Excel features like tables, drop-down lists, charts, shapes, and text boxes for improved usability and interactivity.
+- ### To implement Excel features like tables, drop-down lists, charts, shapes, and text boxes for improved usability and interactivity.
 - To enhance project tracking efficiency and support data-driven decision-making using Excel-based tools.
 
